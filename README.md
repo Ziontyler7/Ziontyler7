@@ -40,10 +40,10 @@ This GitHub profile is being organized as a public evidence layer for my work ac
 
 The goal is simple: make my work easier to find, evaluate, cite, and connect across public sources.
 
-Current public-source priorities:
+Current public repositories:
 
-- `gmais-framework` — authorship and citation anchor for governed multi-agent intelligence concepts.
-- `ai-systems-portfolio` — public professional evidence hub for AI systems architecture and technical writing.
+- [gmais-framework](https://github.com/Ziontyler7/gmais-framework) — authorship and citation anchor for governed multi-agent intelligence concepts.
+- [ai-systems-portfolio](https://github.com/Ziontyler7/ai-systems-portfolio) — public professional evidence hub for AI systems architecture and technical writing.
 
 ## Professional Background
 
