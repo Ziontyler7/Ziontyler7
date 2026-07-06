@@ -51,5 +51,5 @@ Before moving into AI systems and product development, I worked as an educator. 
 
 ## Contact
 
-- LinkedIn: add official LinkedIn URL
-- Portfolio: add portfolio URL when ready
+- LinkedIn: https://linkedin.com/in/michael-tyler
+- Portfolio: https://edios.cloud
