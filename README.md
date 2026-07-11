@@ -25,7 +25,7 @@ The underlying Edios initiative began in 2024 as a governed human-AI collaborati
 
 ## Edios Suite
 
-I designed and developed a six-application iOS portfolio and brought all six products to TestFlight distribution for beta testing.
+I designed and developed a seven-application iOS portfolio and advanced all seven products through TestFlight.
 
 1. **Radius** — creator and local-business platform
 2. **Comedy Camera** — comedy and performance platform
@@ -33,8 +33,9 @@ I designed and developed a six-application iOS portfolio and brought all six pro
 4. **MindReader** — social guessing game
 5. **Ennerstellar** — memorial-space experience
 6. **Edios Digital Memory Platform** — private-first digital memory application
+7. **Ediogram** — fast-paced crossword-grid builder with solo and competitive play
 
-TestFlight distribution is a beta milestone and is not represented here as an App Store launch.
+Six applications are in TestFlight beta distribution. Ediogram version 1.0 has completed multiple build uploads, with its latest build awaiting review. TestFlight is a beta milestone and is not represented here as an App Store launch.
 
 ## Areas of Practice
 
